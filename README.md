@@ -1,6 +1,7 @@
 # Simplistic Port Scanner in Python3
 
 💻 A simple port scanner written in Python3, created as my first programming project;
+
 while I'm ~~learning the language.~~ TRYING to learn the language! 🔍
 
 ## Usage
